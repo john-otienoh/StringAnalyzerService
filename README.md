@@ -36,7 +36,7 @@ venv\Scripts\activate     # for Windows
 pip install -r requirements.txt
 
 4. Run locally
-uvicorn app.main:app --reload
+uvicorn api.main:app --reload
 
 
 
