@@ -24,8 +24,8 @@ SQLite
 
 ##  Setup Instructions
 1. Clone the repository
-git clone https://github.com/SlackOps01/hng-stage-1.git
-cd hng-stage-1
+git clone https://github.com/john-otienoh/StringAnalyzerService</br>
+cd StringServiceAnalyzer
 
 2. Create and activate a virtual environment
 python -m venv venv
